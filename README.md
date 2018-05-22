@@ -18,3 +18,6 @@ quantity int(150) NOT NULL,
 amount varchar(150) NOT NULL,
 PRIMARY KEY (id)
 );
+
+
+//I'm having trouble using git online using integrated git extension in VScode studio since last night, so I just pushed all the files now, disregarding the recorded logs. I'm sorry about that.
